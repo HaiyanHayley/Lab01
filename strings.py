@@ -1,3 +1,5 @@
+#test
+
 strings = ['This', 'list', 'is', 'now', 'all', 'together']
 sentence = ''
 for x in strings:
